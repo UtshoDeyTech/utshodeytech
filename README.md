@@ -1,4 +1,4 @@
-![I am both a Machine Learning & Software Engineer.](https://github.com/UtshoDeyTech/utshodeytech/blob/main/banner.png?raw=true)
+![I am both a Machine Learning & Software Engineer.](https://github.com/UtshoDeyTech/utshodeytech/blob/master/banner.png?raw=true)
 
 <h1 align="center">Hi👋, I'm Utsho Dey</h1>
 <h3 align="center">Both a Machine Learning Engineer & a Software Developer who loves to Develop, Analyze and Innovate.</h3>
