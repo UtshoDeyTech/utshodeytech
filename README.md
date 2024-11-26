@@ -1,6 +1,6 @@
 <!--![I am both a Machine Learning & Software Engineer.](https://github.com/UtshoDeyTech/utshodeytech/blob/master/banner.png?raw=true) -->
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/utshodey?bg_color=111&text_color=aaa&grid_color=333&language_colors=["3e4053","cc4b48","518fbd","ba7a2b","60bd68","f17cb0","b2912f","c71585","b276b2"])
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/utshodey?bg_color=111&text_color=aaa&grid_color=333&language_colors=["3F3B6C","A3C7D6","AE445A","EEE4B1","00E676","FF1493","EDDFE0","FFB38E","31511E"])
 
 <h1 align="center">Hi👋, I'm Utsho Dey</h1>
 <h3 align="center">Both a Machine Learning Engineer & a Software Developer who loves to Develop, Analyze and Innovate.</h3>
