@@ -30,7 +30,7 @@
 <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utshodeytech&theme=solarized_dark" />
 <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=utshodeytech&theme=solarized_dark" />
 <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=utshodeytech&theme=solarized_dark&utcOffset=8" />
-<img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=utshodeytech&bg_color=073642&color=1a73e8&line=859900&point=da5b0b&area=true&hide_border=true" />
+<img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=utshodeytech&bg_color=073642&color=1a73e8&line=859900&point=da5b0b&area=true&hide_border=true&days=60" />
 </div>
 
 <h2 align="center">Languages and Tools:</h2>
